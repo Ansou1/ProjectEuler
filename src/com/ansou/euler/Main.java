@@ -19,6 +19,12 @@ import java.io.File;
 //}
 
 
+
+
+
+
+
+
 public class Main {
     public static boolean isPalindrom(Integer number) {
         number = Math.abs(number);
