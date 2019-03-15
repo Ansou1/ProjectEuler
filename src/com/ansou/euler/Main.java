@@ -20,11 +20,6 @@ import java.io.File;
 
 
 
-
-
-
-
-
 public class Main {
     public static boolean isPalindrom(Integer number) {
         number = Math.abs(number);
@@ -1344,90 +1339,9 @@ public class Main {
 //    }
 //}
 
-//Exo 5
-//public class Main {
-//    public static void main(String[] args) {
-//        for (int i = 1; i < 1000000000; i++) {
-//            int j = 1;
-//            boolean quit = true;
-//            while (j <= 20 && (quit)) {
-//                if (i % j != 0) {
-//                    quit = false;
-//                }
-//                if (j == 20) {
-//                    System.out.println(i);
-//                    break;
-//                }
-//                j++;
-//            }
-//        }
-//    }
-//}
 
-//Exo 4
-//public class Main {
-//    public static boolean isPalindrom(Integer number) {
-//        StringBuilder input1 = new StringBuilder();
-//        input1.append(number.toString());
-//        input1.reverse();
-//        return number.toString().equals(input1.toString());
-//    }
-//
-//    public static void main(String[] args) {
-//        for (int i = 999; i > 800; i--) {
-//            for (int j = 999; j > 800; j--) {
-//                if (isPalindrom(i*j)) {
-//                    System.out.println("Result: " + i*j + ", i = " + i + ", j = " + j);
-//                }
-//            }
-//        }
-//    }
-//}
 
-//Exo 3
-//public class Main {
-//    public static void main(String[] args) {
-//        long number = 600851475143L;
-//
-//        long highestPrime = -1;
-//        for (long i = 2; i <= number; ++i) {
-//            if (number % i == 0) {
-//                highestPrime = i;
-//                number /= i;
-//                --i;
-//            }
-//        }
-//        System.out.println(highestPrime);
-//    }
-//}
 
-// Second exo
-//public class Main {
-//    public static void main(String[] args) {
-//        int first = 1;
-//        int second = 2;
-//        int sum = 0;
-//        int tmp = 0;
-//        for (int i = 1; second < 4000000; i++) {
-//            if (second % 2 == 0)
-//                sum = sum + second;
-//            tmp = second;
-//            second = tmp + first;
-//            first = tmp;
-//        }
-//        System.out.println(sum);
-//    }
-//}
 
-// First exo
-//public class Main {
-//    public static void main(String[] args) {
-//        int sum = 0;
-//        for (int i = 0; i < 1000; i++) {
-//            if ((i % 5 == 0) || (i % 3 == 0)) {
-//                sum = sum + i;
-//            }
-//        }
-//        System.out.println(sum);
-//    }
-//}
+
+
