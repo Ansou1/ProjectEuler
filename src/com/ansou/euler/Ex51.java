@@ -27,7 +27,7 @@ public class Ex51 implements EulerProject {
     }
 
     private int[] getAllCaseNumbers(int i) {
-        int[] numbers = new int[];
+        int[] numbers = new int[100];
 
         return numbers;
     }
