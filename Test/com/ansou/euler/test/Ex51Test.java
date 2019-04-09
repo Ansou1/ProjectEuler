@@ -2,6 +2,7 @@ package com.ansou.euler.test;
 
 import com.ansou.euler.Ex01;
 import com.ansou.euler.Ex51;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -14,5 +15,10 @@ public class Ex51Test {
     @Before
     public void setUp() throws Exception {
         ex51 = new Ex51();
+    }
+
+    @Test
+    public void run() {
+        Assert.assertEquals("121313", ex51.run());
     }
 }

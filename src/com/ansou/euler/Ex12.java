@@ -18,8 +18,6 @@ public class Ex12 implements EulerProject {
                 if (triangleNumber % i == 0) {
                     count+=2;
                     if (count>500) {
-                        //System.out.print(triangleNumber+": ");
-                        //System.out.println(count);
                         return String.valueOf(count);
                     }
                 }
