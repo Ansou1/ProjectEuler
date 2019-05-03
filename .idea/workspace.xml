@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6789a9c8-bb9e-4326-8718-f99ee56cccd9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex06Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex06Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex07Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex07Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex08Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex08Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex09Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex09Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex10Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex10Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex51Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex51Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ansou/euler/Ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/euler/Ex12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ansou/euler/Ex51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/euler/Ex51.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,7 +143,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="100" />
+    <option name="y" value="342" />
     <option name="width" value="1920" />
     <option name="height" value="1104" />
   </component>
@@ -160,6 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,8 +188,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +198,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554290341319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556915098599" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -325,6 +318,8 @@
       <workItem from="1553654616290" duration="5413000" />
       <workItem from="1554357417938" duration="1150000" />
       <workItem from="1554373974469" duration="579000" />
+      <workItem from="1556364651027" duration="573000" />
+      <workItem from="1556365969900" duration="557000" />
     </task>
     <servers />
   </component>
@@ -361,13 +356,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27453000" />
+    <option name="totallyTimeSpent" value="28583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1104" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26890308" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2742279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
