@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6789a9c8-bb9e-4326-8718-f99ee56cccd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/com/ansou/euler/Ex11Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/ansou/euler/Ex12Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/ansou/euler/Ex13Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/ansou/euler/Ex14Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/ansou/euler/Ex15Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/Ex11Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex11Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/Ex12Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex12Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/Ex13Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex13Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/Ex14Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex14Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/com/ansou/euler/Ex15Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex15Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,72 +26,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex12Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex13Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex14Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex15.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex10.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -103,11 +38,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex15Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex10Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="285">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,10 +60,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex11Test.java">
+        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex11Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="285">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex12Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex13Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex14Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex15Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ansou/euler/EulerProject.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/euler/Ex02.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/euler/Ex01.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/euler/Ex03.java" />
@@ -198,6 +194,11 @@
         <option value="$PROJECT_DIR$/Test/com/ansou/euler/Ex13Test.java" />
         <option value="$PROJECT_DIR$/Test/com/ansou/euler/Ex14Test.java" />
         <option value="$PROJECT_DIR$/Test/com/ansou/euler/Ex15Test.java" />
+        <option value="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex11Test.java" />
+        <option value="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex12Test.java" />
+        <option value="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex13Test.java" />
+        <option value="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex14Test.java" />
+        <option value="$PROJECT_DIR$/Test/com/ansou/euler/test/Ex15Test.java" />
       </list>
     </option>
   </component>
@@ -237,6 +238,12 @@
               <item name="Project Euler" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Project Euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project Euler" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -251,7 +258,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557171187487" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557259897815" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -289,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in Project Euler">
+  <component name="RunManager" selected="JUnit.com.ansou.euler.test in Project Euler">
     <configuration name="Ex06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.euler.Ex06" />
       <module name="Project Euler" />
@@ -349,8 +356,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in Project Euler" />
         <item itemvalue="JUnit.com.ansou.euler.test in Project Euler" />
+        <item itemvalue="JUnit.All in Project Euler" />
         <item itemvalue="Application.Ex51" />
         <item itemvalue="Application.Ex06" />
         <item itemvalue="JUnit.Ex01Test" />
@@ -375,14 +382,11 @@
       <workItem from="1554357417938" duration="1150000" />
       <workItem from="1554373974469" duration="579000" />
       <workItem from="1556364651027" duration="573000" />
-      <workItem from="1556365969900" duration="1755000" />
+      <workItem from="1556365969900" duration="2751000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_Project_Euler - 2019.03.15 at 15h 05m 13s.xml">
-      <configuration name="All in Project Euler" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_Project_Euler - 2019.03.15 at 15h 07m 29s.xml">
       <configuration name="All in Project Euler" configurationId="JUnit" />
     </history-entry>
@@ -410,15 +414,18 @@
     <history-entry file="All_in_Project_Euler - 2019.04.01 at 15h 47m 00s.xml">
       <configuration name="All in Project Euler" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="com_ansou_euler_test_in_Project_Euler - 2019.05.07 at 22h 09m 46s.xml">
+      <configuration name="com.ansou.euler.test in Project Euler" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29781000" />
+    <option name="totallyTimeSpent" value="30777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1104" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2742279" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17944622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +434,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22826087" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5889328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -539,17 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding>
             <element signature="e#114#115#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
@@ -709,30 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex10Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex11Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -744,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex12Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -758,13 +723,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex13Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -779,13 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex14Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -797,10 +748,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/Ex15Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex10Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/euler/Ex11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex11Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex12Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex13Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex14Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/ansou/euler/test/Ex15Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
